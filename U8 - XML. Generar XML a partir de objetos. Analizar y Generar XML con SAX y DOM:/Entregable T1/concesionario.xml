@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<consecionario>
+        <coche id="1">
+                <matricula>111AAA</matricula>
+                <modelo>Fiat Regata</modelo>
+                <motor>1200 CC gasolina</motor>
+        </coche>
+        <coche id="2">
+                <matricula>222BBB</matricula>
+                <modelo>Nissan Almera</modelo>
+                <motor>1600 CC gasolina</motor>
+        </coche>
+        <coche id="3">
+                <matricula>333CCC</matricula>
+                <modelo>Hyundai i40</modelo>
+                <motor>1600 CC diesel</motor>
+        </coche>
+        <coche id="4">
+                <matricula>444DDD</matricula>
+                <modelo>Peugeot 308 SW</modelo>
+                <motor>1600 CC diesel</motor>
+        </coche>
+        <coche id="5">
+                <matricula>555FFF</matricula>
+                <modelo>Hyundai Getz</modelo>
+                <motor>1100 CC gasolina</motor>
+        </coche>
+</consecionario>
